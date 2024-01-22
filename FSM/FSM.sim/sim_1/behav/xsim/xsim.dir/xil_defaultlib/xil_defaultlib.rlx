@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/FSM/FSM.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/FSM/FSM.srcs/sim_1/new/testmoore_tb.sv,1699427873,systemVerilog,,,,seq_dec_moore_tb,,,,,,,,
+D:/FSM/FSM.srcs/sources_1/new/Moore.sv,1699958758,systemVerilog,,D:/FSM/FSM.srcs/sim_1/new/testmoore_tb.sv,,seq_dec_moore,,,,,,,,

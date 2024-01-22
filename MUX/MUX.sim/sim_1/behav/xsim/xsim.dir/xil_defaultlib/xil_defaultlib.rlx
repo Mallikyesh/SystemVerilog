@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/MUX/MUX.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/MUX/MUX.srcs/sim_1/new/demux_testbench.sv,1692775102,systemVerilog,,,,tb,,,,,,,,
+D:/MUX/MUX.srcs/sim_1/new/mux_testbench.sv,1692769354,systemVerilog,,,,muxt_b,,,,,,,,
+D:/MUX/MUX.srcs/sources_1/new/Mux.sv,1692769421,systemVerilog,,D:/MUX/MUX.srcs/sim_1/new/mux_testbench.sv,,mux4,,,,,,,,
+D:/MUX/MUX.srcs/sources_1/new/demux__.sv,1692771042,systemVerilog,,D:/MUX/MUX.srcs/sim_1/new/demux_testbench.sv,,demux_1,,,,,,,,

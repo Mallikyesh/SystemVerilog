@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/BCD_Aysnc/BCD_Aysnc.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/BCD_Aysnc/BCD_Aysnc.srcs/sim_1/new/async_tb.sv,1697557546,systemVerilog,,,,ABD_tb,,,,,,,,
+D:/BCD_Aysnc/BCD_Aysnc.srcs/sources_1/new/Aysnc.sv,1697557369,systemVerilog,,D:/BCD_Aysnc/BCD_Aysnc.srcs/sources_1/new/DFF.sv,,ABD,,,,,,,,
+D:/BCD_Aysnc/BCD_Aysnc.srcs/sources_1/new/DFF.sv,1697557350,systemVerilog,,D:/BCD_Aysnc/BCD_Aysnc.srcs/sim_1/new/async_tb.sv,,DFF,,,,,,,,

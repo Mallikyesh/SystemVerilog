@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Array_multiplier.srcs/sources_1/new/Full.sv" \
+"../../../../Array_multiplier.srcs/sources_1/new/Mul.sv" \
+"../../../../Array_multiplier.srcs/sim_1/new/mul_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

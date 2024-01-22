@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/ENDO/ENDO.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/ENDO/ENDO.srcs/sim_1/new/decoder_tb.sv,1693875907,systemVerilog,,,,decoder_test,,,,,,,,
+D:/ENDO/ENDO.srcs/sim_1/new/penco_tb.sv,1693835090,systemVerilog,,,,pencoder_test,,,,,,,,
+D:/ENDO/ENDO.srcs/sources_1/new/Decoder.sv,1693875855,systemVerilog,,D:/ENDO/ENDO.srcs/sim_1/new/decoder_tb.sv,,decoder3_8,,,,,,,,
+D:/ENDO/ENDO.srcs/sources_1/new/Pencoder.sv,1693834679,systemVerilog,,D:/ENDO/ENDO.srcs/sim_1/new/penco_tb.sv,,pencoder,,,,,,,,
+D:/ENDO/ENDO.srcs/sources_1/new/en_tb.sv,1693914763,systemVerilog,,,,encoder_tb,,,,,,,,
+D:/ENDO/ENDO.srcs/sources_1/new/encoderco.sv,1693914719,systemVerilog,,D:/ENDO/ENDO.srcs/sources_1/new/en_tb.sv,,encoder,,,,,,,,

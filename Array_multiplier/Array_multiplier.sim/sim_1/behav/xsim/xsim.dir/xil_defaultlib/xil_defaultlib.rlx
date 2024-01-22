@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Array_multiplier/Array_multiplier.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Array_multiplier/Array_multiplier.srcs/sim_1/new/mul_tb.sv,1697613598,systemVerilog,,,,mul4_tb,,,,,,,,
+D:/Array_multiplier/Array_multiplier.srcs/sources_1/new/Full.sv,1697613639,systemVerilog,,D:/Array_multiplier/Array_multiplier.srcs/sources_1/new/Mul.sv,,fa,,,,,,,,
+D:/Array_multiplier/Array_multiplier.srcs/sources_1/new/Mul.sv,1697613599,systemVerilog,,D:/Array_multiplier/Array_multiplier.srcs/sim_1/new/mul_tb.sv,,mul4,,,,,,,,

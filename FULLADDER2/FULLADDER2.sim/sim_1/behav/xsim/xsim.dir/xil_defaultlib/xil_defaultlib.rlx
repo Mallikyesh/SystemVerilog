@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/FULLADDER2/FULLADDER2.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/FULLADDER2/FULLADDER2.srcs/sim_1/new/FULLADDER2_TB.sv,1694191334,systemVerilog,,,,HALFULLLTB,,,,,,,,
+D:/FULLADDER2/FULLADDER2.srcs/sim_1/new/Rippletb.sv,1694589217,systemVerilog,,,,Rippletb,,,,,,,,
+D:/FULLADDER2/FULLADDER2.srcs/sources_1/new/FullHalf.sv,1694590277,systemVerilog,,D:/FULLADDER2/FULLADDER2.srcs/sources_1/new/rippleadder.sv,,fulladder;halfadder,,,,,,,,
+D:/FULLADDER2/FULLADDER2.srcs/sources_1/new/rippleadder.sv,1694588235,systemVerilog,,D:/FULLADDER2/FULLADDER2.srcs/sim_1/new/Rippletb.sv,,rippleadder,,,,,,,,

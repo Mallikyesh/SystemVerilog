@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/BCD/BCD.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/BCD/BCD.srcs/sim_1/new/BCD_tb.sv,1696403532,systemVerilog,,,,bcd_tb,,,,,,,,
+D:/BCD/BCD.srcs/sources_1/new/downcounter.sv,1696403534,systemVerilog,,D:/BCD/BCD.srcs/sim_1/new/BCD_tb.sv,,bcdud,,,,,,,,

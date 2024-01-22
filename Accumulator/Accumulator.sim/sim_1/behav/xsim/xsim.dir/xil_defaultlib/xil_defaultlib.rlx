@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Accumulator/Accumulator.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Accumulator/Accumulator.srcs/sim_1/new/accu_tb.sv,1700410618,systemVerilog,,,,unsigned_acc_tb,,,,,,,,
+D:/Accumulator/Accumulator.srcs/sources_1/new/accumulator.sv,1700410222,systemVerilog,,D:/Accumulator/Accumulator.srcs/sim_1/new/accu_tb.sv,,unsigned_acc,,,,,,,,

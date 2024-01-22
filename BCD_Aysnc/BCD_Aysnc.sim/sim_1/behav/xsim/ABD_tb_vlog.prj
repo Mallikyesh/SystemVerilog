@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../BCD_Aysnc.srcs/sources_1/new/Aysnc.sv" \
+"../../../../BCD_Aysnc.srcs/sources_1/new/DFF.sv" \
+"../../../../BCD_Aysnc.srcs/sim_1/new/async_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../ENDO.srcs/sources_1/new/encoderco.sv" \
+"../../../../ENDO.srcs/sources_1/new/en_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
